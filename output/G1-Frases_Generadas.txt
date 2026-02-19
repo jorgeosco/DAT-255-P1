@@ -1,5 +1,5 @@
-El robot construye un misterio en el jardin.
-El robot construye una historia curiosa.
-La luna construye un mensaje secreto.
-El robot descubre la solucion del problema.
-El robot descubre un misterio en el jardin.
+Un programador descubre un mensaje secreto.
+La estudiante descubre la solucion del problema.
+El gato observa una historia curiosa.
+Un programador construye la solucion del problema.
+La luna construye la solucion del problema.

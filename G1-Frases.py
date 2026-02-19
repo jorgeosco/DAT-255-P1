@@ -1,3 +1,5 @@
+# G1 Generador de Frases Aleatorias
+
 import random 
 import os 
  
